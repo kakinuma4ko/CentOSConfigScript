@@ -1,7 +1,8 @@
-echo "11111"
+echo "0:cp this to ~/ 1:cp ~/ to this "
 read in
-if [{$in}="1"]; then
-    echo 111
+if [ $in = '0' ] ; then
+    cp ~/.vimrc ~/.vimrcbk
+    cat vimrc>~/.vimrc
 else
-    echo 222
+    cp ~/.vimrc vimrc
 fi
