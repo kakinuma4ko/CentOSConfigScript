@@ -2,6 +2,8 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export LD_LIBRARY_PATH="/user/local/lib" #for crfpp
 
+export TERM=xterm #for vim
+
 alias mdstp='cd ~/desktop'
 alias mdevp='cd ~/developer'
 alias mbsrc='emacs ~/.bashrc'
