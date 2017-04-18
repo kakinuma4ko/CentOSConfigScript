@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.fontSize": 16,
+    "editor.renderIndentGuides": true,
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "vim.easymotionMarkerFontSize": "14",
+    "editor.minimap.enabled": true,
+    "clang.diagnostic.delay": 5,
+    "C_Cpp.autocomplete": "Disabled"
+}
