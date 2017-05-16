@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Solarized Dark",
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
     "editor.fontSize": 16,
     "editor.renderIndentGuides": true,
     "window.zoomLevel": 0,
@@ -8,5 +8,9 @@
     "vim.easymotionMarkerFontSize": "14",
     "editor.minimap.enabled": true,
     "clang.diagnostic.delay": 5,
-    "C_Cpp.autocomplete": "Disabled"
+    "C_Cpp.autocomplete": "Disabled",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 1.8,
+    "python.linting.pylintEnabled": false,
+    "workbench.iconTheme": "vscode-great-icons"
 }
