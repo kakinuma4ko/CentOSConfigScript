@@ -14,5 +14,5 @@
     "python.linting.pylintEnabled": false,
     "workbench.iconTheme": "vscode-great-icons",
     "typescript.check.npmIsInstalled": false,
-    "matlab.mlintpath": "C:/Program Files (x86)/MATLAB/R2016a/bin/win64/mlint.exe"
+    "matlab.mlintpath": "D:/ProgramFiles/MATLAB/R2016a/bin/win64/mlint.exe"
 }
