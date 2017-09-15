@@ -1,18 +1,23 @@
 {
     "workbench.colorTheme": "Sublime Material Theme - Dark",
+
     "editor.fontSize": 16,
     "editor.renderIndentGuides": true,
+    "editor.minimap.enabled": true,
+    
     "window.zoomLevel": 0,
     "workbench.sideBar.location": "left",
     "workbench.statusBar.visible": true,
-    "vim.easymotionMarkerFontSize": "14",
-    "editor.minimap.enabled": true,
-    "clang.diagnostic.delay": 5,
-    "C_Cpp.autocomplete": "Disabled",
+    "workbench.iconTheme": "vscode-great-icons",    
+
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.lineHeight": 1.8,
-    "python.linting.pylintEnabled": false,
-    "workbench.iconTheme": "vscode-great-icons",
-    "typescript.check.npmIsInstalled": false,
-    "matlab.mlintpath": "D:/ProgramFiles/MATLAB/R2016a/bin/win64/mlint.exe"
+
+    "python.linting.pylintEnabled": true,
+    "python.autoComplete.addBrackets": true,
+    "python.jediPath": "/Library/Python/2.7/site-packages",
+    "python.autoComplete.preloadModules": ["re"],
+    "python.autoComplete.extraPaths": [
+        "/Library/Python/2.7/site-packages/jedi"
+    ]
 }
