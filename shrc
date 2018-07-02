@@ -7,6 +7,7 @@ export TERM=xterm #for vim
 alias finderhide='defaults write com.apple.finder AppleShowAllFiles -bool false'
 alias findershow='defaults write com.apple.finder AppleShowAllFiles -bool true'
 alias gitacp='git add .;git commit -m "commit by alias";git push;'
+alias gitacppara='git add .;git commit -m "$1 by alias";git push;'
 alias vc='open -a "Visual Studio Code"'
 alias changetobash="chsh -s /bin/bash"
 alias changetozsh="chsh -s /bin/zsh"
